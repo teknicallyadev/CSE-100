@@ -3,9 +3,6 @@
 
 using namespace std;
 
-//used pseudo code from textbook
-//got help in lab from Pedro, the TA, John, and Rene
-
 void merge(int arr[], int left, int middle, int right){
 	int i = 0;
 	int j = 0;
